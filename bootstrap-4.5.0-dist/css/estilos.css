@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: cornsilk;
+}
+.centrar {
+    display: flex;
+    margin: center;
+    justify-content: center;
+}
+.amarillo {
+    background: coral;
+    height: 250px;
+}
+.azul {
+    background: aqua;
+    height: 250px;
+}
+.rojo {
+    background: crimson;
+    height: 250px;
+}
